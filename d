@@ -1,0 +1,481 @@
+[33mcommit 0f3c324cadc7c9c6d418a948cc25dee462e86315[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: bbcd53b 3c6e93f
+Author: opi6opi6 <opi6@hanmail.net>
+Date:   Mon Nov 21 00:25:55 2022 +0900
+
+    Merge branch 'master' of https://lab.ssafy.com/gwonwon1201/happyhouse_vue
+
+[33mcommit bbcd53bd9b83cf58b26a249db1aee572f9fd6d86[m
+Author: opi6opi6 <opi6@hanmail.net>
+Date:   Mon Nov 21 00:25:47 2022 +0900
+
+    일단 저장
+
+[33mcommit 3c6e93f29bb776d2163c0238a8699fa999d6dac5[m
+Merge: b6d2092 d3fb2a9
+Author: jiwon <jiwonchoi99@naver.com>
+Date:   Mon Nov 21 00:00:17 2022 +0900
+
+    Merge branch 'master' of https://lab.ssafy.com/gwonwon1201/happyhouse_vue
+
+[33mcommit b6d20926b17ce87de2dba8f8b5fefba0c5dcce99[m
+Author: jiwon <jiwonchoi99@naver.com>
+Date:   Mon Nov 21 00:00:00 2022 +0900
+
+    뉴스 검색 추가
+
+[33mcommit d3fb2a9bed074d13b242354473165b379a749758[m
+Author: opi6opi6 <opi6@hanmail.net>
+Date:   Sun Nov 20 23:26:37 2022 +0900
+
+    글리스트 불러오기 하는 중
+
+[33mcommit 5b21c5767613c9f90c038139756ff6428e537f02[m
+Author: opi6opi6 <opi6@hanmail.net>
+Date:   Sun Nov 20 22:15:21 2022 +0900
+
+    대문애니메이션
+
+[33mcommit ddb0a74e24a09e3ad6aa4e3f05aa2995e2f44e56[m
+Author: opi6opi6 <opi6@hanmail.net>
+Date:   Sun Nov 20 21:10:30 2022 +0900
+
+    글보기 에러 해결
+
+[33mcommit ff86e47f5318d0685922e6bfb0d89085f905d96c[m
+Author: opi6opi6 <opi6@hanmail.net>
+Date:   Sun Nov 20 20:56:58 2022 +0900
+
+    글 사진등록 성공
+
+[33mcommit 56b3176ad5e87c9fbae9411e67e1fc6ef076f7ce[m
+Author: jiwon <jiwonchoi99@naver.com>
+Date:   Sun Nov 20 20:24:48 2022 +0900
+
+    뉴스 보여줄 페이지 추가
+
+[33mcommit ba8ac2834027d818819f145d910069bec22207f3[m
+Author: opi6opi6 <opi6@hanmail.net>
+Date:   Sun Nov 20 20:03:01 2022 +0900
+
+    사진 추가중
+
+[33mcommit 6a33b055f829d2755443b140212834b91f8fd81d[m
+Author: opi6opi6 <opi6@hanmail.net>
+Date:   Sun Nov 20 13:35:46 2022 +0900
+
+    글쓰기 시작
+
+[33mcommit e78cb7dcb8852301a5626b0a0954f6eb3c8e4ac6[m
+Author: opi6opi6 <opi6@hanmail.net>
+Date:   Sun Nov 20 12:48:31 2022 +0900
+
+    글디테일 레이아웃 잡음
+
+[33mcommit d06bf52e9252631258a94c5353189315f2a38bf5[m
+Author: opi6opi6 <opi6@hanmail.net>
+Date:   Sat Nov 19 20:41:43 2022 +0900
+
+    ㅇ
+
+[33mcommit b2e0737062831ed300ac4748efbf7ca11ecef6b4[m
+Author: opi6opi6 <opi6@hanmail.net>
+Date:   Sat Nov 19 17:53:59 2022 +0900
+
+    일단 커밋
+
+[33mcommit 06d29683029949a76b3a3a9690b1042796d2d141[m
+Author: opi6opi6 <opi6@hanmail.net>
+Date:   Sat Nov 19 16:33:00 2022 +0900
+
+    오늘 시작
+
+[33mcommit b16f51214974cbb320fdad1bd7229462d60854ec[m
+Author: opi6opi6 <opi6@hanmail.net>
+Date:   Sat Nov 19 07:16:34 2022 +0900
+
+    네비바에 라우터는 다 붙힘
+
+[33mcommit 0ebd7d5fd3ffba3eb885f3cd7f83d36fbc8af31d[m
+Author: opi6opi6 <opi6@hanmail.net>
+Date:   Sat Nov 19 06:58:21 2022 +0900
+
+    네브바 거의 다되감
+
+[33mcommit e23ba460626c7d3402aeaa00fdabf66af963fc68[m
+Author: opi6opi6 <opi6@hanmail.net>
+Date:   Sat Nov 19 04:35:07 2022 +0900
+
+    사진 올린거 네브바에 적용해봄
+
+[33mcommit 2afab4ebf75ff2fa692ccb513547cf4ce3cafa1d[m
+Author: opi6opi6 <opi6@hanmail.net>
+Date:   Sat Nov 19 02:17:16 2022 +0900
+
+    사진 저장및 불러오기 가능
+
+[33mcommit f9eb4d429cbce0c29a5cdbfcd6566b37cd4a1eba[m
+Author: opi6opi6 <opi6@hanmail.net>
+Date:   Fri Nov 18 17:54:06 2022 +0900
+
+    궁여지책으로하우스뷰에 흰배경깔아두긴함 나중에 사이즈 조절 및 오버플로우에 대해 스크롤바 수정
+
+[33mcommit a6b5ac49f893072868aa578388621839e058a004[m
+Merge: 529057f d6a625e
+Author: opi6opi6 <opi6@hanmail.net>
+Date:   Fri Nov 18 17:52:10 2022 +0900
+
+    Merge branch 'master' of https://lab.ssafy.com/gwonwon1201/happyhouse_vue
+
+[33mcommit 529057feaae96378ed9871c1f1c42e7ad7640128[m
+Author: opi6opi6 <opi6@hanmail.net>
+Date:   Fri Nov 18 17:51:58 2022 +0900
+
+    회원가입에 엘리먼트만 넣음
+
+[33mcommit d6a625e6359c5355c918757f97ff3dea1c3f198c[m
+Author: jiwon <jiwonchoi99@naver.com>
+Date:   Fri Nov 18 17:13:31 2022 +0900
+
+    사소한 코드 수정
+
+[33mcommit aeb49eda6b61aa6bce8087303625dea73571fbc5[m
+Author: opi6opi6 <opi6@hanmail.net>
+Date:   Fri Nov 18 16:51:55 2022 +0900
+
+    로그인 페이지 애니메이션은 안넣었음아직
+
+[33mcommit 57f31c8623f2b30a9aa4b0239a857e98da92c6e7[m
+Author: opi6opi6 <opi6@hanmail.net>
+Date:   Fri Nov 18 15:27:15 2022 +0900
+
+    배경 움직이게 했어요
+
+[33mcommit 0830a09e283d6c61eec764992921411e1d36cdd2[m
+Author: opi6opi6 <opi6@hanmail.net>
+Date:   Fri Nov 18 11:30:52 2022 +0900
+
+    로그아웃구현
+
+[33mcommit 60ebefae44cc4f96769f68ad92980547db9c2856[m
+Author: opi6opi6 <opi6@hanmail.net>
+Date:   Fri Nov 18 11:20:34 2022 +0900
+
+    대문손대기 시작
+
+[33mcommit eb462a710d68c3366307adbcfa2428808dabb4fd[m
+Author: jiwon <jiwonchoi99@naver.com>
+Date:   Thu Nov 17 22:44:49 2022 +0900
+
+    주변 시설 추가
+
+[33mcommit 9f84c517b7aceb428675e7c18209e92d0a06ee65[m
+Author: jiwon199 <jiwonchoi99@naver.com>
+Date:   Thu Nov 17 17:52:08 2022 +0900
+
+    주변정보 개발 중..
+
+[33mcommit 4530b3a5e800fcc8dede2a2cb3f69166eb4cef82[m
+Author: abcd <ss@ss.ss>
+Date:   Thu Nov 17 16:11:52 2022 +0900
+
+    뷰 오늘 첫커밋이라 시험
+
+[33mcommit 6bab082551cbaf1f280bca42f8a86f3cd3a5f23f[m
+Author: jiwon199 <jiwonchoi99@naver.com>
+Date:   Thu Nov 17 14:24:28 2022 +0900
+
+    지도 페이지 디자인 입힘
+
+[33mcommit 5b83eea0ca57767764853d43f185774ec6ac7f37[m
+Merge: 6dcf4d0 8ed47fe
+Author: jiwon199 <jiwonchoi99@naver.com>
+Date:   Thu Nov 17 12:46:58 2022 +0900
+
+    Merge branch 'master' of https://lab.ssafy.com/gwonwon1201/happyhouse_vue
+
+[33mcommit 6dcf4d034929021d39652a3e0f5d7dc0df93ea5c[m
+Author: jiwon199 <jiwonchoi99@naver.com>
+Date:   Thu Nov 17 12:46:44 2022 +0900
+
+    vuex 모듈 분리
+
+[33mcommit 8ed47fee5764101adb04913d3ad49f3ac2323570[m
+Author: abcd <ss@ss.ss>
+Date:   Wed Nov 16 17:57:01 2022 +0900
+
+    스프링부트 올림
+
+[33mcommit 85d1d1318acbfa4c44eacf2a29e5c28fb0723a6d[m
+Author: 이동하 <siganshoyou@gmail.com>
+Date:   Wed Nov 16 17:55:06 2022 +0900
+
+    Update README.md
+
+[33mcommit 13ed295201c5ce157285a419c08543c85132bdc6[m
+Merge: 04f3012 2da3c5d
+Author: jiwon199 <jiwonchoi99@naver.com>
+Date:   Wed Nov 16 17:52:38 2022 +0900
+
+    Merge branch 'master' of https://lab.ssafy.com/gwonwon1201/happyhouse_vue
+
+[33mcommit 04f30122d7902ab272b6e7c6dda27cbff24aa6af[m
+Author: jiwon199 <jiwonchoi99@naver.com>
+Date:   Wed Nov 16 17:52:05 2022 +0900
+
+    댓글 등록 구현
+
+[33mcommit 2da3c5d23ef3724876790b9548b63f0b10368b3b[m
+Author: abcd <ss@ss.ss>
+Date:   Wed Nov 16 17:40:40 2022 +0900
+
+    이미지올림
+
+[33mcommit 55fee46f827e8c71412eb16892152f0c1675faf4[m
+Author: jiwon199 <jiwonchoi99@naver.com>
+Date:   Wed Nov 16 17:24:14 2022 +0900
+
+    댓글 개발중
+
+[33mcommit 41a95d463330dbe7ddc8ae57bab9ef854f14b95c[m
+Author: abcd <ss@ss.ss>
+Date:   Wed Nov 16 17:22:12 2022 +0900
+
+    마지막 푸시
+
+[33mcommit 7ccfc1d7090f49e55d0e1dd344f9bdd8bc0d9c98[m
+Author: abcd <ss@ss.ss>
+Date:   Wed Nov 16 16:49:59 2022 +0900
+
+    qna 끝
+
+[33mcommit 6c787a333f62ea4a07d94aea72dd6989ef7d8fa6[m
+Author: abcd <ss@ss.ss>
+Date:   Wed Nov 16 15:55:37 2022 +0900
+
+    글쓰기 만지는 중
+
+[33mcommit cee9c804823103016a6cf33cde87be5b499e83f2[m
+Author: jiwon199 <jiwonchoi99@naver.com>
+Date:   Wed Nov 16 15:55:10 2022 +0900
+
+    props 수정
+
+[33mcommit 2807355bf732736bb9c2319b2382c961eac692ff[m
+Author: abcd <ss@ss.ss>
+Date:   Wed Nov 16 15:31:45 2022 +0900
+
+    댓글이랑 디테일이랑 합체연성중
+
+[33mcommit 9675643a233254e9ee4e0bb6d99846b07147da45[m
+Merge: d7379f1 1941a15
+Author: jiwon199 <jiwonchoi99@naver.com>
+Date:   Wed Nov 16 15:25:19 2022 +0900
+
+    Merge branch 'master' of https://lab.ssafy.com/gwonwon1201/happyhouse_vue
+
+[33mcommit d7379f17dbb72f5cde2c2e50d2fbd2351888fd02[m
+Author: jiwon199 <jiwonchoi99@naver.com>
+Date:   Wed Nov 16 15:25:05 2022 +0900
+
+    댓글 영역 개발중
+
+[33mcommit 1941a1518537fde56a5a3a8fe10a437597206c37[m
+Author: abcd <ss@ss.ss>
+Date:   Wed Nov 16 14:18:28 2022 +0900
+
+    게시판 시작
+
+[33mcommit 205945339c14e5562beb72d586570fa599d0dcde[m
+Author: jiwon199 <jiwonchoi99@naver.com>
+Date:   Wed Nov 16 14:18:01 2022 +0900
+
+    게시판 폴더 추가
+
+[33mcommit 924215eafdac4f1ced7410aa4e2ab7066331ed0a[m
+Author: jiwon199 <jiwonchoi99@naver.com>
+Date:   Wed Nov 16 13:18:56 2022 +0900
+
+    로그인 안하면 관심지역 설정 불가
+
+[33mcommit 65626b751e76130ef0678b2ca3ddd730ada96987[m
+Author: abcd <ss@ss.ss>
+Date:   Wed Nov 16 12:41:21 2022 +0900
+
+    관심지역 등록 삭제 프론트 해놨음
+
+[33mcommit a538a858d35c5bc00af9b7dcb23a3d0b58975e6f[m
+Author: abcd <ss@ss.ss>
+Date:   Wed Nov 16 11:03:56 2022 +0900
+
+    관심지역인지아닌지 판단
+
+[33mcommit 9097c2fae19a26beb3937bd97d7fc55ee751f908[m
+Author: jiwon199 <jiwonchoi99@naver.com>
+Date:   Wed Nov 16 10:26:28 2022 +0900
+
+    동코드 조회 추가
+
+[33mcommit c835c5061504790787dc9649ede23af250f1e182[m
+Author: jiwon199 <jiwonchoi99@naver.com>
+Date:   Wed Nov 16 09:52:36 2022 +0900
+
+    유저관련 에러 어이없게 갑자기 해결됨
+
+[33mcommit 4426ff33d540b3e993c62d9bbeb0a80c4ef874a2[m
+Author: jiwon <jiwonchoi99@naver.com>
+Date:   Tue Nov 15 21:57:14 2022 +0900
+
+    지도 추가
+
+[33mcommit 08000cf5b02d2a4c49a72b65009da7b6e0918e0f[m
+Merge: 1444024 ba0fd02
+Author: 최지원 <gwonwon1201@gmail.com>
+Date:   Tue Nov 15 17:55:22 2022 +0900
+
+    Merge branch 'jiwon' into 'master'
+    
+    아파트 목록 완성
+    
+    See merge request gwonwon1201/happyhouse_vue!5
+
+[33mcommit ba0fd0278a067c0d8e61977e427a413e84c6a088[m
+Author: jiwon199 <jiwonchoi99@naver.com>
+Date:   Tue Nov 15 17:55:04 2022 +0900
+
+    아파트 목록 완성
+
+[33mcommit 14440249ce01ceebad62b9f8c3198c298bd218e1[m
+Author: abcd <ss@ss.ss>
+Date:   Tue Nov 15 17:54:30 2022 +0900
+
+    로그인 구현 끝
+
+[33mcommit 37ebe8992ba2e582037f688230ead2600757d1a5[m
+Author: abcd <ss@ss.ss>
+Date:   Tue Nov 15 15:42:00 2022 +0900
+
+    수정2
+
+[33mcommit 2cfa1d2ac7639c34b568291eb871e4fb905c9e2c[m
+Merge: b0d9615 a6b7bb2
+Author: 최지원 <gwonwon1201@gmail.com>
+Date:   Tue Nov 15 15:41:37 2022 +0900
+
+    Merge branch 'jiwon' into 'master'
+    
+    옵션 만드는 중
+    
+    See merge request gwonwon1201/happyhouse_vue!4
+
+[33mcommit a6b7bb2c28fd9914dc80dc5bfb0045effb52f0ae[m
+Author: jiwon199 <jiwonchoi99@naver.com>
+Date:   Tue Nov 15 15:41:20 2022 +0900
+
+    옵션 만드는 중
+
+[33mcommit b0d961521a7261c5819c907711d62e42d6455397[m
+Author: abcd <ss@ss.ss>
+Date:   Tue Nov 15 15:24:42 2022 +0900
+
+    회원정보 수정 작업중
+
+[33mcommit 7fc40173ad1286977cf8680e91b4b3b2ce8b6e2e[m
+Merge: 95f9a8b 93dc294
+Author: abcd <ss@ss.ss>
+Date:   Tue Nov 15 14:43:47 2022 +0900
+
+    오류수정
+
+[33mcommit 95f9a8bbdf4ca6263b92ce56464d58244bf551c8[m
+Author: abcd <ss@ss.ss>
+Date:   Tue Nov 15 14:38:20 2022 +0900
+
+    로그인 로그아웃 구현
+
+[33mcommit 93dc294fd10d63f4083367b75588fabef7abd5c4[m
+Merge: a92d1fc 05c45e7
+Author: 최지원 <gwonwon1201@gmail.com>
+Date:   Tue Nov 15 14:36:36 2022 +0900
+
+    Merge branch 'jiwon' into 'master'
+    
+    옵션 vuex 저장
+    
+    See merge request gwonwon1201/happyhouse_vue!3
+
+[33mcommit 05c45e7848d0b9d980820a473481f66815e71edb[m
+Author: jiwon199 <jiwonchoi99@naver.com>
+Date:   Tue Nov 15 14:34:53 2022 +0900
+
+    옵션 vuex 저장
+
+[33mcommit a92d1fc0cdbadd045bf87f55a6ffe3a2bdfbe002[m
+Author: abcd <ss@ss.ss>
+Date:   Tue Nov 15 14:10:39 2022 +0900
+
+    로그인 작업중
+
+[33mcommit 7a7a1ad9efbc63abc5bbcf5c4a1952c1c3a192f5[m
+Merge: ea81061 184abcd
+Author: 최지원 <gwonwon1201@gmail.com>
+Date:   Tue Nov 15 13:44:31 2022 +0900
+
+    Merge branch 'jiwon' into 'master'
+    
+    select box 만듦
+    
+    See merge request gwonwon1201/happyhouse_vue!2
+
+[33mcommit 184abcd7e75c8cae8184567460f3d2bca3053aa6[m
+Author: jiwon199 <jiwonchoi99@naver.com>
+Date:   Tue Nov 15 13:44:08 2022 +0900
+
+    select box 만듦
+
+[33mcommit ea810619ae51046f88b4dff65fee89d268e766ca[m
+Author: abcd <ss@ss.ss>
+Date:   Tue Nov 15 11:31:39 2022 +0900
+
+    잘안됐지만 하는중
+
+[33mcommit b1a1a943130687b65c6c826b2bfef2e3c987c6a4[m
+Merge: 4dde036 480d6a6
+Author: 최지원 <gwonwon1201@gmail.com>
+Date:   Tue Nov 15 11:30:49 2022 +0900
+
+    Merge branch 'jiwon' into 'master'
+    
+    axios 설정 추가
+    
+    See merge request gwonwon1201/happyhouse_vue!1
+
+[33mcommit 480d6a61988f345df9451b243e5cf7bb47a12168[m
+Author: jiwon199 <jiwonchoi99@naver.com>
+Date:   Tue Nov 15 11:30:32 2022 +0900
+
+    axios 설정 추가
+
+[33mcommit 4dde0360cfff3d19c035f74905fd591ce98a474f[m
+Author: abcd <ss@ss.ss>
+Date:   Tue Nov 15 11:07:53 2022 +0900
+
+    워닝잡음
+
+[33mcommit 852ba90d8eec92e3b900615d08656ff3a64e060a[m
+Author: jiwon199 <jiwonchoi99@naver.com>
+Date:   Tue Nov 15 11:05:19 2022 +0900
+
+    부트스트랩 설정 추가
+
+[33mcommit 3cbc341517278ceff68590fa62c3d9993052adb8[m
+Author: abcd <ss@ss.ss>
+Date:   Tue Nov 15 10:56:53 2022 +0900
+
+    테스트커밋 겸 라우터 변경
+
+[33mcommit f3c425d5fc2d93563370ae80f0df1d407555b751[m
+Author: jiwon199 <jiwonchoi99@naver.com>
+Date:   Tue Nov 15 10:42:32 2022 +0900
+
+    commit
